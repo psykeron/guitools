@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--For Button Picker  -->
+      <item name="PICKER_BUTTON_TYPE" type="id"/>    
+      <item name="PICKER_BUTTON_PRESSED" type="id"/>    
+</resources>
